@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
             "name": "MatchNumber",
             "request": "launch",
             "mainClass": "MatchNumber",
