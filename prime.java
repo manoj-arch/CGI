@@ -10,9 +10,9 @@ public class prime {
         Scanner obj = new Scanner(System.in);
         int num= obj.nextInt();
 
-        boolean isprime= true;
+        boolean isprime = true;
 
-        if(num <=1){
+        if(num <=2){
             isprime=false;
         }
         else{
