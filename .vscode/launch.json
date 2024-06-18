@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "innerAdd",
+            "request": "launch",
+            "mainClass": "OOPS.Overloading.innerAdd",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "InnerComputer",
+            "request": "launch",
+            "mainClass": "OOPS.InnerComputer",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Message",
+            "request": "launch",
+            "mainClass": "OOPS.Message",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Oddnumbers",
+            "request": "launch",
+            "mainClass": "Oddnumbers",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NaturalNumbers",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "SecondLargest",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "OddAdd",
+            "request": "launch",
+            "mainClass": "OddAdd",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "EvenAdd",
+            "request": "launch",
+            "mainClass": "EvenAdd",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "PrimeNumber",
