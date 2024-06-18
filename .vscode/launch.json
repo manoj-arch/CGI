@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Demo",
             "request": "launch",
+            "mainClass": "OOPS.Abstraction.Demo",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "OOPS.Polymorphism.Demo",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "OOPS.Overriding.Demo",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
             "mainClass": "OOPS.Inheritance.Demo",
             "projectName": "CGI_790617eb"
         },
