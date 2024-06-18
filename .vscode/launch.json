@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "innerHuman",
+            "request": "launch",
+            "mainClass": "OOPS.Encapsulation.innerHuman",
+            "projectName": "CGI_790617eb"
+        },
+        {
+            "type": "java",
             "name": "innerAdd",
             "request": "launch",
             "mainClass": "OOPS.Overloading.innerAdd",
