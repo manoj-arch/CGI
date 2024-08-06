@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "OOPS.Abstraction.add",
+            "projectName": "CGI-1_af3685a5"
+        },
+        {
+            "type": "java",
             "name": "Demo",
             "request": "launch",
             "mainClass": "OOPS.Abstraction.Demo",
